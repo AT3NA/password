@@ -1,5 +1,5 @@
 ## ABOUT 📒
-This is a random password generator build in python by *HARAJIT*the 
+This is a random password generator build in python by *HARAJIT* 
 ## HOW TO USE 📒
 1. Open terminal / termux 
 2. `pkg install git python -y`
